@@ -107,7 +107,7 @@ body{
   cursor: pointer;
 }
 
-@media (max-width : 450px){
+@media (max-width : 490px){
   .title{
     margin-bottom: 20px;
     background-color: rgba(14, 14, 14, 0.859);
@@ -144,7 +144,7 @@ body{
   .todoContainer{
     margin-left: -30%;
     width: 163%;
-    height: 500px;
+    height: 700px;
     background-color: rgba(20, 20, 20, 0.967);
     border-style: solid;
     border-right-color: lightcoral;
