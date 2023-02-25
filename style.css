@@ -107,7 +107,7 @@ body{
   cursor: pointer;
 }
 
-@media (max-width : 500px){
+@media (max-width : 768px){
   .title{
     margin-bottom: 20px;
     background-color: rgba(14, 14, 14, 0.859);
